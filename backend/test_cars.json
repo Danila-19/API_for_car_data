@@ -1,0 +1,54 @@
+[
+    {
+        "model": "cars.car",
+        "pk": 1,
+        "fields": {
+            "brand": "Toyota",
+            "model": "Camry",
+            "year": 2021,
+            "fuel_type": "petrol",
+            "transmission_type": "automatic",
+            "mileage": 15000,
+            "price": "20000.00"
+        }
+    },
+    {
+        "model": "cars.car",
+        "pk": 2,
+        "fields": {
+            "brand": "Honda",
+            "model": "Civic",
+            "year": 2020,
+            "fuel_type": "diesel",
+            "transmission_type": "manual",
+            "mileage": 20000,
+            "price": "18000.00"
+        }
+    },
+    {
+        "model": "cars.car",
+        "pk": 3,
+        "fields": {
+            "brand": "Tesla",
+            "model": "Model 3",
+            "year": 2022,
+            "fuel_type": "electric",
+            "transmission_type": "automatic",
+            "mileage": 5000,
+            "price": "35000.00"
+        }
+    },
+    {
+        "model": "cars.car",
+        "pk": 4,
+        "fields": {
+            "brand": "Ford",
+            "model": "Focus",
+            "year": 2019,
+            "fuel_type": "hybrid",
+            "transmission_type": "cvt",
+            "mileage": 30000,
+            "price": "22000.00"
+        }
+    }
+]

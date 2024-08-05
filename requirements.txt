@@ -1,0 +1,6 @@
+djangorestframework
+djoser
+django-filter
+drf-yasg
+isort
+python-dotenv
